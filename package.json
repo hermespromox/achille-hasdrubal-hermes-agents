@@ -1,1 +1,1 @@
-{"scripts":{"build":"rm -rf dist && mkdir -p dist && cp index.html styles.css og-image.svg og-image.png dist/"},"devDependencies":{}}
+{"scripts":{"build":"rm -rf dist && mkdir -p dist/hermes && cp index.html styles.css og-image.svg og-image.png dist/ && cp hermes/index.html dist/hermes/"},"devDependencies":{}}
