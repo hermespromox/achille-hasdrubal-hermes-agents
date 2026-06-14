@@ -1,0 +1,1 @@
+{"scripts":{"build":"rm -rf dist && mkdir -p dist && cp index.html styles.css og-image.svg dist/"},"devDependencies":{}}
